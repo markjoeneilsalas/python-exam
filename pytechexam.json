@@ -1,13 +1,3 @@
 {
-  "type": "service_account",
-  "project_id": "pyexam-396915",
-  "private_key_id": "d443d884e10601879850935f5fc8432beb31b0a5",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC247FcethV+nID\nrcOXJ+n4a/arGqXqYvZCswSlwvPDPKv+jhFVSTFfh7N2rXM+SrvR8ZwzfyQsPn2S\nEjEu+FDp7XWGHvIpyblQ7C6EYFJVLox535PUnOVuZAzW5g4ZDt66Zoq398wpJd3L\nBza0FegpeKl1e2RiNZrl9P8qxjZUy0pu9f7bmU3+mxV8vs7oQ/fD29W0hUiq9W6s\nJaEIocf8qELoczEH7XqqSMDm9nRVWOMCYhbS2Gk9Llmau9YHEBr2UFCB0E7F7ayB\n2AklJjX8qSx4kp/kW1oDPXRiH36vTSyUE6RVzJUN8JzfT9U0fyHUJqBEG2afuCl+\neGd/wQm9AgMBAAECggEALE14w9nAOQebgdegZyfUjgh9LtKcOWxykhKygAL7MKKs\nWVQJz9qUmrsRFqEKpx7MY51/BJx6YztaCL3eay3cz+XlT7GEYOoMOZWU6R06JIdL\noSQvN9Qv4a9bytzcsmY/PvEjDlB5BMi28v0S28novM8NYbebyAyLMsRH4ZE1TRGt\nduY52oJg7jh1mUcOhHnlwTAqBAm8a9vQ0EApJxiOkbxz0RHKRDozuKkoyd/OyHvN\nuIo2NupdWabVfJbf+bN57nZpDC/kjD0eispP9KG8dk7ukk+/jDyM4oYmkkevelHx\nAMcWzg1PICq/GVH+D2dJAVmcCo+h7GN1KSS/zB0tgwKBgQD/Wy1UoBGmBthg0FeW\nHYduG/Mf8P5S9TnMg0UqVcCCcZuRGbBe/ELrTMLnMbNMFD917KuQj6X000UiYWa/\n535h0pXYGPlMV2LlJR6Yfc+4egEDdk7F3ohK0kH9YYQgdbfQ9Xf80U9ZD0bCMCOx\nD44ETKUYGB2ISEAYsDQlhcAqtwKBgQC3Wb28YtLuShdJa0k5RGFgbgMGBFsI351z\nqzo+aqy9gQDI+LfAxE/ADvQRoXNcoAli0s85fr9IRRwU0Dyffrn4YnmlUUHglyKi\nyoRb7N4pE6Bp8TUK7GrMUVqF4yZK/sZuOY5l3EIhscuf8CYIFGAbxPuF3PdKIdA7\nG/oMmnwLKwKBgQDewVjv45rBrGMBQX3GVAgaQ4N5L6+MCqPbBgBGB/whTp2YnEJA\n+eoefR3gtHhmO5uIcWbQep8YzVwXu8P4UCbtithwZIjE0c5RemoQOGAF21ga/w+E\niLV4H6a1NGYgMtChFiEPiD+hvzPInlnkUV9f3MSAGjlY8z4Gy18SBHU4TQKBgCf2\n8ql2bP2tvqetL/fAlO0c7aHJH0Ku4zYMM5TZUa+4x8AGnp7w62U0nTSemXOuGn2k\n77BblTwefEF5Jk2ppMWkSVmkfZSDvPP46qLS3ZXchlGxVtt7rse8T9vxKC6enAf4\nmbZQLUYE6BqDkPaf4lcLN7v07x4EgsvvjDBlF/ajAoGABgCkIhbzio3FzNmH1h2I\n2PcgXlG6Nfp98qfP9d6VekHBALASFFAW9R4WvSW8nCbxw6wNJ2i8gRcOuOQD7+uo\nhzOKh3YZSsz5wSKQfIOmaq3pU+V/amfvWeWwhjjnjSRHMaoABTwUOB935JvMWbRG\nQrGhEB0UpmIVv+JuKv82WRg=\n-----END PRIVATE KEY-----\n",
-  "client_email": "pyexam@pyexam-396915.iam.gserviceaccount.com",
-  "client_id": "105760958229146679237",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pyexam%40pyexam-396915.iam.gserviceaccount.com",
-  "universe_domain": "googleapis.com"
+  
 }
